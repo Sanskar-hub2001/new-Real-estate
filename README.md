@@ -16,7 +16,7 @@
 ![Project Screenshot](https://github.com/Sanskar-hub2001/new-Real-estate/blob/main/Screenshot%202024-12-29%20095452.png?raw=true)
 
 ## Add Properties
-![Project Screenshot](https://github.com/Sanskar-hub2001/new-Real-estate/blob/8e3b013bd818fa21da462267daea469e82bc7eec/Screenshot%20(1196).png)
+![Project Screenshot](https://github.com/Sanskar-hub2001/new-Real-estate/blob/main/Screenshot%202024-12-29%20095421.png?raw=true)
 
 
 ## 🚀 Project Overview
