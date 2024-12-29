@@ -8,7 +8,7 @@
 ## 🚀 Project Overview
 A fully responsive real estate website homepage built using **React.js**. This project showcases dynamic property listings, intuitive navigation, and a sleek, modern design optimized for all devices. The goal is to provide an immersive experience for users looking to browse, buy, or rent properties with ease.
 
-🔗 **Live Demo**: [real-state-world.netlify.app](https://new-real-estate-t97w.vercel.app/)
+🔗 **Live Demo**: [real-state-world](https://new-real-estate-t97w.vercel.app/)
 
 ## 🛠️ Features
 - **Responsive Design** – Ensures seamless user experience across desktops, tablets, and mobile devices.
