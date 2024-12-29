@@ -1,6 +1,6 @@
 # Real Estate Website
 
-![Project Screenshot](https://real-state-world.netlify.app/screenshot.png)
+![Project Screenshot](https://github.com/Sanskar-hub2001/new-Real-estate/blob/8e3b013bd818fa21da462267daea469e82bc7eec/Screenshot%20(1196).png)
 
 ## 🚀 Project Overview
 A fully responsive real estate website homepage built using **React.js**. This project showcases dynamic property listings, intuitive navigation, and a sleek, modern design optimized for all devices.
@@ -52,7 +52,7 @@ real-estate-website/
    ```
 4. **Run the development server**:
    ```bash
-   npm start
+   npm start 
    ```
 5. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
