@@ -7,10 +7,13 @@
 ![Project Screenshot](https://github.com/Sanskar-hub2001/new-Real-estate/blob/main/Screenshot%202024-12-29%20095227.png?raw=true)
 
 ## Login
-![Project Screenshot](https://github.com/Sanskar-hub2001/new-Real-estate/blob/8e3b013bd818fa21da462267daea469e82bc7eec/Screenshot%20(1198).png)
+![Project Screenshot](https://github.com/Sanskar-hub2001/new-Real-estate/blob/8e3b013bd818fa21da462267daea469e82bc7eec/Screenshot%20(1197).png)
+
+## After login/logout
+![Project Screenshot](https://github.com/Sanskar-hub2001/new-Real-estate/blob/main/Screenshot%202024-12-29%20095622%20-%20Copy.png?raw=true)
 
 ## Properties
-![Project Screenshot](https://github.com/Sanskar-hub2001/new-Real-estate/blob/8e3b013bd818fa21da462267daea469e82bc7eec/Screenshot%20(1199).png)
+![Project Screenshot](https://github.com/Sanskar-hub2001/new-Real-estate/blob/main/Screenshot%202024-12-29%20095452.png?raw=true)
 
 ## Add Properties
 ![Project Screenshot](https://github.com/Sanskar-hub2001/new-Real-estate/blob/8e3b013bd818fa21da462267daea469e82bc7eec/Screenshot%20(1196).png)
